@@ -16,8 +16,7 @@ To run the jar for a demo, run the following command<br>
 
 where system can be "indian" or "western"
 
-Eg:
-java -jar <path-to-jar> 123 westerm
-
-Output: one hundred twenty three
+<b>Eg:</b><br>
+java -jar <path-to-jar> 123 western<br>
+<b>Output:</b> one hundred twenty three
 
