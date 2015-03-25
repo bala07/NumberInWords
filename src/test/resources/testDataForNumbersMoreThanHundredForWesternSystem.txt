@@ -1,0 +1,23 @@
+0,zero
+100,one hundred
+210,two hundred ten
+353,three hundred fifty three
+1234,one thousand two hundred thirty four
+9999,nine thousand nine hundred ninety nine
+10000,ten thousand
+15023,fifteen thousand twenty three
+99999,ninety nine thousand nine hundred ninety nine
+100000,one hundred thousand
+123460,one hundred twenty three thousand four hundred sixty
+999999,nine hundred ninety nine thousand nine hundred ninety nine
+1000000,one million
+1000001,one million one
+9300000,nine million three hundred thousand
+10000000,ten million
+10000015,ten million fifteen
+105300064,one hundred five million three hundred thousand sixty four
+1000000000,one billion
+10000000000,ten billion
+100000000000,one hundred billion
+230000000000,two hundred thirty billion
+1000000000000,one trillion

@@ -1,0 +1,22 @@
+0,zero
+100,one hundred
+210,two hundred ten
+353,three hundred fifty three
+1234,one thousand two hundred thirty four
+9999,nine thousand nine hundred ninety nine
+10000,ten thousand
+15023,fifteen thousand twenty three
+99999,ninety nine thousand nine hundred ninety nine
+100000,one lakh
+123460,one lakh twenty three thousand four hundred sixty
+999999,nine lakhs ninety nine thousand nine hundred ninety nine
+1000000,ten lakhs
+1000001,ten lakhs one
+9300000,ninety three lakhs
+10000000,one crore
+10000015,one crore fifteen
+105300064,ten crores fifty three lakhs sixty four
+1000000000,one hundred crores
+10000000000,one thousand crores
+100000000000,ten thousand crores
+230000000000,twenty three thousand crores
